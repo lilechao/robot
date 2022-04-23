@@ -1,0 +1,13 @@
+[{
+    "name": "BNB",
+   "address": "0x00",
+   "index": 0
+}, {
+    "name": "WBNB",
+   "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+   "index": 1
+}, {
+    "name": "USDT",
+   "address": "0x7ef95a0FEE0Dd31b22626fA2e10Ee6A223F8a684",
+   "index": 2
+}]

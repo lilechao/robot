@@ -1,0 +1,16 @@
+[
+    {
+        "router_address":"0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3",
+        "name":"V1",
+        "gas_limit":600000,
+        "decimals":18,
+        "factory_address":"0xB7926C0430Afb07AA7DEfDE6DA862aE0Bde767bc"
+    },
+    {
+        "router_address":"0xDE2Db97D54a3c3B008a097B2260633E6cA7DB1AF",
+        "name":"V2",
+        "gas_limit":600000,
+        "decimals":18,
+        "factory_address":"0x46E9aD48575d08072E9A05a9BDE4F22973628A8E"
+    }
+]
