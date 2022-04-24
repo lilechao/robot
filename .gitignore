@@ -1,0 +1,12 @@
+/.idea
+.env
+.phpunit.result.cache
+.project
+.setting
+.git
+.buildpath
+.DS_Store
+/dist
+/build
+*.php
+*.txt

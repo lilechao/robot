@@ -1,0 +1,14 @@
+{
+    "apikey": "",
+    "major_address": "0x00",
+    "symbol": "BNB",
+    "chain_id": "56",
+    "app_env": "production",
+    "chain_name": "BSC",
+    "gas_limit": 600000,
+    "decimals": 18,
+    "slippage_tolerance": 1,
+    "weth_address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "api_url": "https://api.bscscan.com",
+    "rpc_url": "https://bsc-dataseed1.binance.org"
+}
